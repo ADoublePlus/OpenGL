@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\john\desktop\openglgame\includes\gl.h(22): warning C4091: 'static ': ignored on left of 'const Vertex' when no variable is declared
+  OpenGLGame.vcxproj -> C:\Users\John\Desktop\OpenGLGame\\bin\Debug\OpenGLGame.exe
+  OpenGLGame.vcxproj -> C:\Users\John\Desktop\OpenGLGame\\bin\Debug\OpenGLGame.pdb (Partial PDB)
